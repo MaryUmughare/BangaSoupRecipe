@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Banga Soup Recipe</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- Recipe Name and Description -->
+<h1>Banga Soup</h1>
+<p>Banga Soup, also known as <em>Amuamiedi</em>, is a rich and nutritious Urhobo soup made from palm nut extract. It is a beloved staple across the Niger Delta region, best served with eba or starch.</p>
+<h2>Why Banga Soup is Nutritious</h2>
+<ul>
+<li>Rich in minerals</li>
+<li>Helps in the treatment of <strong>Vitamin A deficiency</strong></li>
+<li>Rich in <strong>Vitamin K</strong></li>
+<li>Rich in antioxidants</li>
+<li>contains nutritients that support good brain functions</li>
+</ul>
+<!-- Recipe Details -->
+<h2>Recipe Details</h2>
+<p><strong>Prep Time:</strong> 15 minutes</p>
+<p><strong>Cook Time:</strong> 30 minutes</p>
+<p><strong>Total Time:</strong> 45 minutes</p>
+<p><strong>Servings:</strong> 8 people</p>
+<p><strong>Difficulty:</strong> <mark>Intermediate</mark></p>
+<!-- Recipe Image -->
+<img src="banga-soup.jpg" alt="A pot of Urhobo Banga Soup" width="600" height="400">
+<!-- Ingredients -->
+</h2>Ingredients</h2>
+<ul>
+<li>1.5 lb Beef or any meat of your choice</li>
+<li>1 large onion - half chopped, half-blended</li>
+<li>1 teaspoon Cameroon Pepper (substitute with cayenne pepper)</li>
+<li>2 teaspoons Seasoning powder or Bouillon cubes</li>
+<li>3 medium Stockfish Panla (Okporoko) - soaked in hot water</li>
+<li>1 can Palm-nut Extract</li>
+<li>2 Scotch bonnets</li>
+<li>1 tablespoon Banga Spice (Irugeje and Ataiko)</li>
+<li>1-2 tablespoons Crushed Obeletientien leaves or Dried bitter leaves</li>
+<li>1 Oburunbebe stick</li>
+<li>2 medium Dried Fish - soaked and deboned</li>
+<li>4 to 6 cups Water or Stock</li>
+<li>1 tablespoon Ground Crayfish</li>
+<li>Salt to taste</li>
+</ul>
+<!-- Cooking Instructions -->
+<h2>Cooking Instructions</h2>
+<ol>
+<li>Boil the palm kernel fruit for 30 minutes until soft.</li>
+<li>Pound gently in a mortar, strain through a sieve to extract liquid.</li>
+<li>Boil the extract until it thickens and oil rises to the top.</li>
+<li>Cook meat with onions, pepper, seasoning and salt until tender.</li>
+<li>Add stockfish and cook for another 10 minutes, then set aside.</li>
+<li>Add palm nut concentrate, dilute with stock, cook until oil floats.</li>
+<li>Blend scotch bonnet and onion, add to pot.</li>
+<li>Add Banga spice, fish, meat, crayfish and Oburunbebe stick. Cook 10 mins.</li>
+<li>Stir in bitter leaves, simmer until thickened. Serve hot!</li>
+<!-- Tips and Notes -->
+<h2>Tips and Notes</h2>
+<ul>
+<li>Using canned palm nut extract? Skip steps 1 to 3.</li>
+<li>Remove the <em>Oburunbebe stick</em> before serving.</li>
+<li>Tastes even better the next day!</li>
+</ul>
+<!-- Nutrition Facts -->
+<h2>Nutrition Facts (per serving)</h2>
+<p><strong>Calories:</strong> 380 kcal</p>
+<p><strong>Protein:</strong> 24g</p>
+<p><strong>Carbohydrates:</strong> 10g</p>
+<p><strong>Vitamin A:</strong> High</p>
+<p><strong>Vitamin K:</strong> High</p>
+
+<!-- Source Link -->
+<h2>Learn More</h2>
+<p>For more details visit:
+<a href="https://www.allnigerianrecipes.com/soups/banga-soup/">All Nigerian Recipes - Banga Soup</a>
+</p>
+</body>
+</html>
+

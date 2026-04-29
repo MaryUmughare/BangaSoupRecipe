@@ -1,0 +1,8 @@
+/* General Body Styling */
+body (
+    font-family: Georgia, serif;
+    background-color: #fdf6ee; 
+    color: #2c1a0e;
+    margin: 0;
+    padding: 0;
+)
